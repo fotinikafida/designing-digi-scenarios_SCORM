@@ -1,2 +1,2 @@
-# design_digi-scenarios_SCORM
+# designing-digi-scenarios-SCORM
 All files or the SCORM package for the activity ''design. digi.scenarios'' separately, to  enable code and local display
